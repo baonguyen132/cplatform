@@ -1,10 +1,11 @@
 import 'dart:math';
 
-import 'package:cplatform/Lap/Lap3/button.dart';
-import 'package:cplatform/Lap/Lap3/item.dart';
+
 import 'package:cplatform/Lap/Lap3/responsive/desktop.dart';
 import 'package:cplatform/Lap/Lap3/responsive/mobile.dart';
 import 'package:flutter/material.dart';
+
+// Vao main sua home: Lap3()
 
 class Lap3 extends StatefulWidget {
 

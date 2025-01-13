@@ -2,6 +2,8 @@ import 'package:cplatform/Lap/Lap2/user_input.dart';
 import 'package:flutter/material.dart';
 // import 'package:google_fonts/google_fonts.dart';
 
+// Vao main sua home: Lap2()
+
 class Lap2 extends StatefulWidget {
   const Lap2({super.key});
 

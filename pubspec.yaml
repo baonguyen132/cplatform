@@ -41,7 +41,7 @@ dependencies:
 
 #  google_fonts: ^6.2.1
   flutter_slidable: ^3.1.2
-  cached_network_image: ^3.2.3
+  audioplayers: ^6.1.0
 
 dev_dependencies:
   flutter_test:
@@ -70,6 +70,8 @@ flutter:
     - images/diamond.png
     - images/avata.png
     - images/lap3/
+    - images/lap4/
+    - assets/
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
 
