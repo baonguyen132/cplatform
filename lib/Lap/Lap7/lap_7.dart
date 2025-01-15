@@ -4,6 +4,8 @@ import 'package:cplatform/Lap/Lap7/widget/widget_custom_button_lap7.dart';
 import 'package:cplatform/Lap/Lap7/widget/widget_title_story.dart';
 import 'package:flutter/material.dart';
 
+// Vao main sua home: Lap7()
+
 StoryBrain storyBrain = StoryBrain() ;
 
 class Lap7 extends StatefulWidget {
